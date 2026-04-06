@@ -21,3 +21,6 @@
 <img width="582" height="789" alt="image" src="https://github.com/user-attachments/assets/2b7a2878-01dd-4ae5-8ea2-ff4cbf8d85d9" />
 
 
+## пароли хранятся хэшированные 
+
+<img width="1633" height="854" alt="image" src="https://github.com/user-attachments/assets/72932c87-f0d1-4d39-9d32-291f842d919a" />
